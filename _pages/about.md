@@ -9,7 +9,7 @@ profile:
   image: popovaite3.jpg
 
 
-news: true
+news: false
 social: true
 ---
 
@@ -17,9 +17,13 @@ I have a PhD from the department of Sociology& Criminology at the  University of
 
 In my freetime, I bike, swim, read, knit, and make things with Raspberry Pi.   
 
-Are you looking for a data scientist? Contact me and I will tell you why I am the best candidate for the position. 
+Contact me if:
 
-Do you work in space analogs? Let's connect! 
+* 	You are looking for a data scientist with a strong social / behavioral science background;
+* 	You are planning a research project and my expertise would be a great fit;
+* 	You want to hear about my personal / research experience in a space analog environment;
+* 	You are interested in my work and simply want to say hi. 
+	
 
   
 ***
