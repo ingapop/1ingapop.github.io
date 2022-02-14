@@ -54,6 +54,12 @@ I love public writing. Here are some links to my work.
 
 [Sociologė Inga dvi savaites dirbs Marse (15min.lt)](https://www.15min.lt/gyvenimas/naujiena/pokalbiai/sociologe-inga-dvi-savaites-dirbs-marse-viena-is-salygu-kandidatui-pajegti-vaikscioti-su-15-kg-skafandru-1040)  
 
+##### Women in STEM:
+
+[Kodėl astronautikoje dominuoja vyrai? (Mokslas skubantiems/LRT)](https://www.lrt.lt/mediateka/irasas/2000199498/mokslas-skubantiems-kodel-astronautikoje-dominuoja-vyrai?fbclid=IwAR2GWzlS1BownrsBDbfqOioNlp1sY_M1Vk_OcSeEx4pBy4Q5Jj6VuZMnES8)
+
+
+
  
 
  
