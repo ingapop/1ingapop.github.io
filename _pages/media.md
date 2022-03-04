@@ -37,8 +37,16 @@ I love public writing. Here are some links to my work.
 
 [Kakvo e obshtoto mezhdu patuvaneto do Mars i socialnata izolacija (Predi Obed/BTV)](https://www.btv.bg/video/shows/predi-obed/videos/kakvo-e-obshtoto-mezhdu-patuvaneto-do-mars-i-socialnata-izolacija.html)
 
+[Kam Marse reikalingi socialiniai mokslai?(Pasitikiu mokslu/Žinių radijas)](https://www.ziniuradijas.lt/laidos/pasitikiu-mokslu/kam-marse-reikalingi-socialiniai-mokslai?video=1)
+
 
 ##### Research at the Mars Desert Research Station: 
+
+[Mokslininkė sociologė - pirmoji lietuvė JAV Marso tyrymų stotyje(Mokslo sriuba/LRT)](https://www.youtube.com/watch?v=4ZnQg0vqc_Y)
+
+[2 savaitės Marso aplinką atkartojančioje tyrimų stotyje (Mokslo sriuba podcast)](https://www.youtube.com/watch?v=KlGy_F81QAw)
+
+[Laimės dieta. Ar laimė kosmose ir laimė Žemėje skiriasi?(Laimės dieta/LRT)](https://www.lrt.lt/mediateka/irasas/2000202573/laimes-dieta-ar-laime-kosmose-ir-laime-zemeje-skiriasi)
 
 [Iš Marso simuliacijos laboratorijos grįžusi lietuvė patyrė, kaip atrodys žmonių gyvenimas raudonojoje planetoje: buvo nerealu (Radikalus smalsumas/delfi)](https://www.delfi.lt/mokslas/mokslas/is-marso-simuliacijos-laboratorijos-grizusi-lietuve-patyre-kaip-atrodys-zmoniu-gyvenimas-raudonojoje-planetoje-buvo-nerealu.d?id=88568449)
 
@@ -57,7 +65,6 @@ I love public writing. Here are some links to my work.
 ##### Women in STEM:
 
 [Kodėl astronautikoje dominuoja vyrai? (Mokslas skubantiems/LRT)](https://www.lrt.lt/mediateka/irasas/2000199498/mokslas-skubantiems-kodel-astronautikoje-dominuoja-vyrai?fbclid=IwAR2GWzlS1BownrsBDbfqOioNlp1sY_M1Vk_OcSeEx4pBy4Q5Jj6VuZMnES8)
-
 
 
  
