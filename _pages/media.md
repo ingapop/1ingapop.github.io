@@ -42,6 +42,10 @@ I love public writing. Here are some links to my work.
 
 ##### Research at the Mars Desert Research Station: 
 
+[Talk of Iowa / Iowa Public Radio](https://www.iowapublicradio.org/podcast/talk-of-iowa/2022-03-10/lee-coles-debut-novel-is-an-empathetic-exploration-of-a-deeply-divided-nation)
+
+[The Lonely Planet: An Iowa Researcher's Simulated Voyage to Mars (Iowa Magazine (UIowa Alumni Magazine))](https://magazine.foriowa.org/story.php?ed=true&storyid=2167)
+
 [Mokslininkė sociologė - pirmoji lietuvė JAV Marso tyrymų stotyje(Mokslo sriuba/LRT)](https://www.youtube.com/watch?v=4ZnQg0vqc_Y)
 
 [2 savaitės Marso aplinką atkartojančioje tyrimų stotyje (Mokslo sriuba podcast)](https://www.youtube.com/watch?v=KlGy_F81QAw)
