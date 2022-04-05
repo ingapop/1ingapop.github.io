@@ -18,7 +18,7 @@ I am a researcher at [Kaunas University of Technology Faculty of Social Sciences
 
 I recently moved to Kaunas from Iowa City (USA) where I got my PhD from the University of Iowa.
 
-In my research, I explore small group dynamics in space analog environments with a focus on gender and emotions( [here](assets/pdf/inga popovaite_vita_feb_2022.pdf) is my CV). I speak Lithuanian, Russian, and a bit of Georgian and German.  
+In my research, I explore small group dynamics in space analog environments with a focus on gender and emotions( [here](assets/pdf/inga popovaite_vita_april_2022.pdf) is my CV). I speak Lithuanian, Russian, and a bit of Georgian and German.  
 
 In my freetime, I bike, swim, read, knit, and make things with Raspberry Pi.   
 
