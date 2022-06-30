@@ -7,7 +7,7 @@ nav: true
 ---
 ***
 
-I love public writing. Here are some links to my work.
+Some of my articles: 
 
 #####  Gender, space, and isolation:
 
@@ -27,7 +27,7 @@ I love public writing. Here are some links to my work.
 
  ***
  
- I also love talking about my research. Here are some of my previous interviews. 
+ And these are links to stories and interviews about my research:
  
 ##### Sociology and space: 
  
@@ -39,6 +39,14 @@ I love public writing. Here are some links to my work.
 
 [Kam Marse reikalingi socialiniai mokslai?(Pasitikiu mokslu/Žinių radijas)](https://www.ziniuradijas.lt/laidos/pasitikiu-mokslu/kam-marse-reikalingi-socialiniai-mokslai?video=1)
 
+
+##### Gender and leadership in space analogs:
+
+[Women in space analogues demonstrate more sustainable leadership (EurekAlert)](https://www.eurekalert.org/news-releases/955618)
+
+[Women may be better suited to leading Mars base mission (Express)](https://www.express.co.uk/news/science/1624204/space-news-women-better-suited-to-long-term-missions-mars-base)
+
+[Female Astronauts Better at Leading Mars Missions: Study(Newsweek)](https://www.newsweek.com/female-astronauts-better-lead-long-space-missions-mars-study-1719492)
 
 ##### Research at the Mars Desert Research Station: 
 
